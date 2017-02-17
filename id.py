@@ -22,6 +22,5 @@ if __name__ == '__main__':
 
     print([str(i) for i in (b,c)])
     print([i for i in (b,c)])
-	
 
 
